@@ -11,7 +11,7 @@ Modern Ram trucks have high-tech navigation systems that make it easy for driver
 
 
 
-.. image:: update.jpg
+.. image:: docs/update.png
    :alt: My Project Logo
    :width: 350px
    :align: center
